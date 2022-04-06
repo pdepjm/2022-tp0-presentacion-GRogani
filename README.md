@@ -2,4 +2,6 @@
 
 ## Estudiante: Rogani Cano Gonzalo
 
-Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vQkogtG88cmwEIXEuff291urSyrZUYHikLIoRTspUodvIg5OoaUJTi8n0vqPJ3XUSN65sqJALTBizeB/pub).
+![mi foto](foto.jpg)
+
+Bienvenidos a mi repositorio para Paradigmas de Programacion, soy Gonzalo, me gusta el futbol, programar y el cine, en ese orden, soy la clase de persona que no sabe cual es su helado favorito :D
